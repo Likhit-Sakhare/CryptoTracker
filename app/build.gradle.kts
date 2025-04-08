@@ -98,4 +98,7 @@ dependencies {
     implementation(libs.ktor.client.core)
     implementation(libs.ktor.client.logging)
     implementation(libs.ktor.serialization.kotlinx.json)
+
+    //Splash API
+    implementation(libs.androidx.splashscreen)
 }
